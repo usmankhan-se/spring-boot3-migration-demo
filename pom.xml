@@ -25,6 +25,9 @@
 
         <!-- Pinned to a vulnerable release on purpose (CVE-2022-45868). -->
         <h2.version>2.1.210</h2.version>
+
+        <!-- Overrides the Spring Boot managed Undertow version (HTTP request smuggling fixes). -->
+        <undertow.version>2.3.25.Final</undertow.version>
     </properties>
 
     <dependencies>
