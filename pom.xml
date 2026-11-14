@@ -98,7 +98,7 @@
             <!-- DoS via unbounded multipart parts: CVE-2023-24998 -->
             <groupId>commons-fileupload</groupId>
             <artifactId>commons-fileupload</artifactId>
-            <version>1.4</version>
+            <version>1.6.0</version>
         </dependency>
 
         <dependency>
