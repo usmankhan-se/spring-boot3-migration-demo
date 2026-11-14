@@ -92,7 +92,7 @@
             <!-- Deserialization gadget chain: CVE-2015-7501 -->
             <groupId>commons-collections</groupId>
             <artifactId>commons-collections</artifactId>
-            <version>3.2.1</version>
+            <version>3.2.2</version>
         </dependency>
         <dependency>
             <!-- DoS via unbounded multipart parts: CVE-2023-24998 -->
