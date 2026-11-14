@@ -80,7 +80,7 @@
             <!-- Log4Shell: CVE-2021-44228, CVE-2021-45046 -->
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
-            <version>2.14.1</version>
+            <version>2.26.1</version>
         </dependency>
         <dependency>
             <!-- Text4Shell: CVE-2022-42889 -->
